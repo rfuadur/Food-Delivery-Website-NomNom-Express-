@@ -8,7 +8,7 @@
         <div class="front-container">
             <div class= "column-left">
             <h1>About Us</h1>
-                <p>Welcome to NomNom Express, your go-to destination for convenient and delicious food delivery. We pride ourselves on delivering a seamless culinary experience right to your doorstep, ensuring that you never have to compromise on taste or quality, even on your busiest days.
+                <p>Welcome to NomNom Express, your go-to destination for convenient and delicious food delivery anyday. We pride ourselves on delivering a seamless culinary experience right to your doorstep, ensuring that you never have to compromise on taste or quality, even on your busiest days.
 
 
 </p>
